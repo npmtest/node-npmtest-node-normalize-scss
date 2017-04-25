@@ -1,6 +1,7 @@
 # npmtest-node-normalize-scss
 
-test coverage for  [node-normalize-scss (v1.4.0)](https://github.com/ranjandatta/node-normalize-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-normalize-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-normalize-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-normalize-scss.svg)](https://travis-ci.org/npmtest/node-npmtest-node-normalize-scss)
+#### basic test coverage for  [node-normalize-scss (v1.4.0)](https://github.com/ranjandatta/node-normalize-scss#readme)  [![npm package](https://img.shields.io/npm/v/npmtest-node-normalize-scss.svg?style=flat-square)](https://www.npmjs.org/package/npmtest-node-normalize-scss) [![travis-ci.org build-status](https://api.travis-ci.org/npmtest/node-npmtest-node-normalize-scss.svg)](https://travis-ci.org/npmtest/node-npmtest-node-normalize-scss)
+
 #### Normalize.css as an npm packaged, libsass module with no changes
 
 [![NPM](https://nodei.co/npm/node-normalize-scss.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/node-normalize-scss)
@@ -9,7 +10,7 @@ test coverage for  [node-normalize-scss (v1.4.0)](https://github.com/ranjandatta
 |--:|:--|
 | coverage : | [![istanbul-coverage](https://npmtest.github.io/node-npmtest-node-normalize-scss/build/coverage.badge.svg)](https://npmtest.github.io/node-npmtest-node-normalize-scss/build/coverage.html/index.html)|
 | test-report : | [![test-report](https://npmtest.github.io/node-npmtest-node-normalize-scss/build/test-report.badge.svg)](https://npmtest.github.io/node-npmtest-node-normalize-scss/build/test-report.html)|
-| build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-normalize-scss/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-normalize-scss/tree/gh-pages/build)|
+| test-server-github : | [![github.com test-server](https://npmtest.github.io/node-npmtest-node-normalize-scss/GitHub-Mark-32px.png)](https://npmtest.github.io/node-npmtest-node-normalize-scss/build/app/index.html) | | build-artifacts : | [![build-artifacts](https://npmtest.github.io/node-npmtest-node-normalize-scss/glyphicons_144_folder_open.png)](https://github.com/npmtest/node-npmtest-node-normalize-scss/tree/gh-pages/build)|
 
 - [https://npmtest.github.io/node-npmtest-node-normalize-scss/build/coverage.html/index.html](https://npmtest.github.io/node-npmtest-node-normalize-scss/build/coverage.html/index.html)
 
@@ -72,7 +73,8 @@ test coverage for  [node-normalize-scss (v1.4.0)](https://github.com/ranjandatta
         "url": "git://github.com/ranjandatta/node-normalize-scss.git"
     },
     "scripts": {},
-    "version": "1.4.0"
+    "version": "1.4.0",
+    "bin": {}
 }
 ```
 
